@@ -1,6 +1,6 @@
-### Hey there 👋
+#### Hey there 👋
 
-I'm Vasudev Kini T 😄
+### I'm Vasudev Kini T 😄
 Pursuing B Tech in CSE at Manipal Institute of Technology, Batch of 2019-23 
 
 ----
@@ -13,7 +13,7 @@ Pursuing B Tech in CSE at Manipal Institute of Technology, Batch of 2019-23
 
 ----
 #### Connect with me:
-Email: vasudevinit2001@gmail.com </br>
+Email: vasudevinit2001@gmail.com \
 Linkedin: https://www.linkedin.com/in/kini-vasu
 
 
