@@ -13,8 +13,8 @@ Pursuing B Tech in CSE at Manipal Institute of Technology, Batch of 2019-23
 
 ----
 #### Connect with me:
-email: vasudevinit2001@gmail.com </br>
-linkedin: https://www.linkedin.com/in/kini-vasu
+Email: vasudevinit2001@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/kini-vasu
 
 
 
