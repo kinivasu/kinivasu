@@ -1,17 +1,17 @@
 #### Hey there 👋
 
-### I'm Vasudev Kini T 😄
+### I'm Vasudev Kini 😄
 Pursuing B Tech in CSE at Manipal Institute of Technology, Batch of 2019-23 
 
 ----
 #### My Interests:
 
-- ⚡ I an keenly interested in Computer Vision and a beginner in Machine learning 
+- ⚡ I an keenly interested in Computer Vision and also Machine learning 
 - 🌱 I'm also interested in App Development using flutter
 
 ----
 #### Connect with me:
-Email: vasudevinit2001@gmail.com \
+Email: vasudevkinit2001@gmail.com \
 Linkedin: https://www.linkedin.com/in/kini-vasu
 
 
