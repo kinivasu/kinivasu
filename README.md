@@ -6,7 +6,7 @@ Pursuing B Tech in CSE at Manipal Institute of Technology, Batch of 2019-23
 ----
 #### My Interests:
 
-- ⚡ I an keenly interested in Computer Vision and also Machine learning 
+- ⚡ I am interested in Computer Vision and also Machine learning 
 - 🌱 I'm also interested in App Development using flutter
 
 ----
