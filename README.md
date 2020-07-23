@@ -6,13 +6,9 @@ Pursuing B Tech in CSE at Manipal Institute of Technology, Batch of 2019-23
 ----
 #### My Interests:
 
-- ⚡ I am interested in Computer Vision and also Machine learning 
-- 🌱 I'm also interested in App Development using flutter
+- ⚡ I'm interested in App Development using flutter 
+- 🌱 I am also interested in Computer Vision
 
-----
-#### Connect with me:
-Email: vasudevkinit2001@gmail.com \
-Linkedin: https://www.linkedin.com/in/kini-vasu
 
 
 
@@ -31,4 +27,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+----
+#### Connect with me:
+Email: vasudevkinit2001@gmail.com \
+Linkedin: https://www.linkedin.com/in/kini-vasu
+
 -->
