@@ -1,5 +1,6 @@
 #### Hey there 👋
 
+<!--
 ### I'm Vasudev Kini 😄
 Pursuing B Tech in CSE at Manipal Institute of Technology, Batch of 2019-23 
 
@@ -9,8 +10,7 @@ Pursuing B Tech in CSE at Manipal Institute of Technology, Batch of 2019-23
 - ⚡ I'm interested in App Development using flutter 
 - 🌱 I am also interested in Computer Vision
 
-
-
+-->
 
 
 <!--
